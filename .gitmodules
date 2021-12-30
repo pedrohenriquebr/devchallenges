@@ -1,6 +1,6 @@
 [submodule "my-team-page"]
 	path = my-team-page
-	url = ./my-team-page
+	url = https://github.com/pedrohenriquebr/my-team-page.git
 [submodule "404-not-found"]
 	path = 404-not-found
-	url = ./404-not-found
+	url = https://github.com/pedrohenriquebr/404-not-found.git
